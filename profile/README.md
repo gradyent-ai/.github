@@ -1,6 +1,6 @@
-## Hi there 👋
+Gradyent
 
-![Gradyent](./gradyent_logo_small.jpg)
+![Gradyent](gradyent_logo_small.jpg)
 
 Real-time Digital Twin Platform for District Heating 
 
